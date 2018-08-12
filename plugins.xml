@@ -1,0 +1,56 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="/static/style/plugins.xsl" ?>
+<plugins>
+    <pyqgis_plugin name="Opal Qgis Plugin" version="1.0.0" plugin_id="1">
+        <description><![CDATA[Opal qgis plugin.]]></description>
+        <about><![CDATA[Opal qgis plugin.]]></about>
+        <version>1.0.0</version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>2.0.0</qgis_minimum_version>
+        <qgis_maximum_version>2.99.0</qgis_maximum_version>
+        <homepage><![CDATA[http://smartgeomatic.pl/]]></homepage>
+        <file_name><![CDATA[opal-qgis-plugin-latest.zip]]></file_name>
+        <icon></icon>
+        <author_name><![CDATA[Smartgeomatic]]></author_name>
+        <download_url><![CDATA[https://codeload.github.com/smartgeomatic/opal-qgis-plugin/zip/latest]]></download_url>
+        <uploaded_by><![CDATA[smartgeomatic]]></uploaded_by>
+        <create_date>2018-05-01T09:43:57.251757</create_date>
+        <update_date>2018-05-01T09:43:57.251757</update_date>
+        <experimental>True</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/smartgeomatic/opal-qgis-plugin/issues]]></tracker>
+        <repository><![CDATA[https://github.com/smartgeomatic/opal-qgis-plugin/tree/latest]]></repository>
+        <tags><![CDATA[geology,stratigraphy]]></tags>
+        <downloads>1</downloads>
+        <average_vote>0</average_vote>
+        <rating_votes>0</rating_votes>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Mapli Qgis Plugin" version="1.0.0" plugin_id="2">
+        <description><![CDATA[Mapli Qgis Plugin.]]></description>
+        <about><![CDATA[Mapli Qgis Plugin.]]></about>
+        <version>1.0.0</version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>2.0.0</qgis_minimum_version>
+        <qgis_maximum_version>2.99.0</qgis_maximum_version>
+        <homepage><![CDATA[http://smartgeomatic.pl/]]></homepage>
+        <file_name><![CDATA[mapli-qgis-plugin-latest.zip]]></file_name>
+        <icon></icon>
+        <author_name><![CDATA[Smartgeomatic]]></author_name>
+        <download_url><![CDATA[https://codeload.github.com/smartgeomatic/mapli-qgis-plugin/zip/latest]]></download_url>
+        <uploaded_by><![CDATA[smartgeomatic]]></uploaded_by>
+        <create_date>2018-05-01T09:43:57.251757</create_date>
+        <update_date>2018-05-01T09:43:57.251757</update_date>
+        <experimental>True</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[https://github.com/smartgeomatic/mapli-qgis-plugin/issues]]></tracker>
+        <repository><![CDATA[https://github.com/smartgeomatic/mapli-qgis-plugin/tree/latest]]></repository>
+        <tags><![CDATA[geology,stratigraphy]]></tags>
+        <downloads>1</downloads>
+        <average_vote>0</average_vote>
+        <rating_votes>0</rating_votes>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+</plugins>
